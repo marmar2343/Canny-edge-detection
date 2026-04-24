@@ -11,3 +11,4 @@ This repository provides a step-by-step implementation of the Canny Edge Detecti
 
 ## Requirements
 - `numpy`, `scipy`, `scikit-image`, `matplotlib`
+To install dependencies, run: pip install -r requirements.txt
